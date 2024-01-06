@@ -1,0 +1,15 @@
+{
+  "name": "rgcs_web",
+  "version": "1.0.0",
+  "description": "hej",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ben"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
